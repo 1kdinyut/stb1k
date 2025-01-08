@@ -3,12 +3,12 @@ proxies:
   server: 104.26.7.171
   port: 443
   type: trojan
-  password: keerom
+  password: halemia
   network: ws
-  sni: iddk2.dklongtong.xyx
+  sni: id4.herzakereaktif.top
   skip-cert-verify: true
   udp: true
   ws-opts:
     path: "/trojan"
     headers:
-      Host: iddk2.dklongtong.xyx
+      Host: id4.herzakereaktif.top
