@@ -1,0 +1,14 @@
+proxies:
+- name: AKUN-GITNEW
+  server: vidio.xtls.my.id
+  port: 443
+  type: trojan
+  password: keerom
+  network: ws
+  sni: iddk2.dklongtong.xyx
+  skip-cert-verify: true
+  udp: true
+  ws-opts:
+    path: "/trojan"
+    headers:
+      Host: iddk2.dklongtong.xyx
