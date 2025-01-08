@@ -1,6 +1,6 @@
 proxies:
 - name: AKUN-GITHUB
-  server: vidio.xtls.my.id
+  server: 104.26.7.171
   port: 443
   type: trojan
   password: keerom
